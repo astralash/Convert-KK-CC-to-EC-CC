@@ -1,13 +1,13 @@
 # FromKKtoEC
 
-	Automatically convert EC chara cards in current folder and its subfolders to KK cards.
+	Automatically convert KK chara cards in current folder and its subfolders to EC cards.
 	
 	Output will be placed in a new folder with original folder structure.
 	The new folder is named "ConvertedFromKKtoEC" + TimeStamp.
 	
 	It's safe to use because the result will not cover original files.
 	
-	It will not convert pngs that is not a CC or already KK.
+	It will not convert pngs that is not a CC or already EC.
 	
 	The KKEx part is through simply copying, so it's not sure all information is transplanted correctly.
 	
